@@ -16,7 +16,7 @@ import com.nestoleh.bottomsheetspinner.R
 import kotlinx.android.synthetic.main.dialog_spinner_bottom_menu.*
 
 /**
- * Bottom sheet menu dialog
+ * Bottom sheet menu dialogss
  *
  * @author oleg.nestyuk
  */
