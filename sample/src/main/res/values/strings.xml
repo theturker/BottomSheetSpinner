@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheet Spinner Sample</string>
+    <string name="title_select_shape">İlçe</string>
+    <string name="label_selected_item">Selected item</string>
+</resources>
